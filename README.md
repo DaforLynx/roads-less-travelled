@@ -4,6 +4,8 @@ A Minecraft 1.21.1 modpack featuring Oritech, Affinity, and Origins
 
 ![screenshot_1.png](./screenshot_1.jpg)
 
+*Shader used: Photon*
+
 **Roads Less Travelled** features a few core mods, with additional mods emphasizing pillars of Quality of Life, Exploration, and Self-expression. Explore the beautifully generated world, conquer obstacles with a host of new equipment, build and express yourself with more blocks and cosmetic options, and revel in an enhanced Minecraft experience.
 
 # Installation
