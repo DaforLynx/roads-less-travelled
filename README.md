@@ -142,6 +142,4 @@ The food mod of all time.
 
 # KNOWN BUGS
 
-- Viewing tool recipes shows all the glint recipes, often before the actual tool. This is a bug with Additional Additions that has not been ironed out. The workaround is to use JEI instead of REI, but that lacks compatibility with the chosen tech mods, to my knowledge. So I'm willing to make this small sacrifice to convenience.
-
 - Roadweaver roads cut through trees. This is just how it works; you can choose to remove Roadweaver if you wish, as it adds a lot of initial wordgen time.
