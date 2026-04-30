@@ -118,7 +118,7 @@ The food mod of all time.
 
 ### Other Cool Things
 
-**Additional Additions** - Rose Gold tools which go between Iron and Diamond, plus many more vanilla...additions
+**Additional Additions** - Rose Gold tools which go between Iron and Diamond, plus many more vanilla, well, additions
 
 **Ambient Sounds + Presence Footsteps + Sound Physics Remastered + Sounds** - completely changes the audio experience of Minecraft
 
@@ -142,4 +142,4 @@ The food mod of all time.
 
 # KNOWN BUGS
 
-- Roadweaver roads cut through trees. This is just how it works; you can choose to remove Roadweaver if you wish, as it adds a lot of initial wordgen time.
+- Roadweaver roads cut through trees. This is just how it works; you can choose to remove Roadweaver if you wish, as it adds a lot of initial worldgen time.
